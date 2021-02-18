@@ -1,0 +1,33 @@
+body{
+    background-color: seaorangeshell;
+}
+
+.header{ 
+    background-color: gold; 
+    display: flex; 
+    justify-content: center; }
+
+.animal{
+    background-color: red;
+}
+
+
+.item1{
+    background-color: lightblue;
+   }
+
+   .item2{
+    background-color: plum;
+   }
+
+   .item3{
+    background-color: greenyellow;
+   }
+
+   .item4{
+    background-color: burlywood;
+   }
+
+   .item5{
+    background-color: rgb(31, 93, 207);
+   }
